@@ -47,7 +47,7 @@ After you have seeded the database, you can run the server.
 ```
  npm start
  
- ``
+ ```
 
 ## 💡 Usage
 While in the root directory, run:
@@ -58,6 +58,7 @@ node index.js
 or 
 ```
 npm start
+
 ```
 
 
